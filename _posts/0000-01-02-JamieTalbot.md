@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sam Nombe is very good at football :)
 Use the left arrow to go back!
